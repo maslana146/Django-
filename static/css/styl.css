@@ -1,17 +1,9 @@
 .card {
-    height: 400px;
+    height: 400px; /* Your height here */
     overflow: hidden;
 }
 
-.card_image{
-    height: 250px;
+.card-image {
+    height: 250px; /* Your height here */
     overflow: hidden;
-
 }
-
-.flex_container{
-    padding: 0;
-    margin: 0;
-    list-style: none;
-}
-
